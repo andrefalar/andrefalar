@@ -15,7 +15,7 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 
 ## 🛠️ Skills
 
-- **Cybersecurity & Networking:** VLANs, Cisco, Wireshark, vulnerability analysis, support & incident handling  
+- **Cybersecurity & Networking:** Firewalls, Cisco, Wireshark, vulnerability analysis, support & incident handling  
 - **Programming:** Python, Kotlin, SQL, Git, GitHub, secure coding practices  
 - **Tools:** VirtualBox, VMware, GNS3, Docker, Google Cloud Platform  
 - **Documentation:** Network diagrams, technical manuals, incident reports  
@@ -52,13 +52,12 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 - **Junior Cybersecurity Analyst Career Path - Cisco** (Jul 2024)  
 - **Network Technician Career Path - Cisco** (Dec 2024)
 
-[View my badges on Credly »](https://www.credly.com/users/andres-alarcon)
+[View my badges on Credly »]([https://www.credly.com/users/andres-alarcon](https://www.credly.com/users/andres-alarcon.d8d3b904))
 
 ---
 
 ## 📫 Let's Connect
 
-- [GitHub](https://github.com/andrefalar)  
 - [LinkedIn](http://www.linkedin.com/in/andrés-alarcón-7012a1320)
 
 ---
