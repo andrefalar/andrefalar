@@ -5,13 +5,11 @@
 📍 Bogotá, Colombia  
 📧 andre.alarcon@proton.me
 
----
 
 ## 🧠 About Me
 
 I'm a passionate and proactive technology student with hands-on experience in cybersecurity, network configuration, and Android development. I enjoy solving real-world IT problems, maintaining robust and secure infrastructures, and writing clear technical documentation. My goal is to build secure systems that are both reliable and user-friendly.
 
----
 
 ## 🛠️ Skills
 
@@ -21,7 +19,6 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 - **Documentation:** Network diagrams, technical manuals, incident reports  
 - **Languages:** Spanish (native), English (B2 – upper-intermediate)
 
----
 
 ## 💼 Experience Highlights
 
@@ -42,7 +39,6 @@ I'm a passionate and proactive technology student with hands-on experience in cy
   - Assisted with public bidding processes, ensuring cybersecurity compliance  
   - Created technical documentation and performed hands-on testing
 
----
 
 ## 📜 Certifications
 
@@ -54,12 +50,10 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 
 [View my badges on Credly »](https://www.credly.com/users/andres-alarcon.d8d3b904)
 
----
 
 ## 📫 Let's Connect
 
 - [LinkedIn](http://www.linkedin.com/in/andrés-alarcón-7012a1320)
 
----
 
 > 🚀 Always learning. Always building. Always securing.
