@@ -5,11 +5,9 @@
 📍 Bogotá, Colombia  
 📧 andre.alarcon@proton.me
 
-
 ## 🧠 About Me
 
 I'm a passionate and proactive technology student with hands-on experience in cybersecurity, network configuration, and Android development. I enjoy solving real-world IT problems, maintaining robust and secure infrastructures, and writing clear technical documentation. My goal is to build secure systems that are both reliable and user-friendly.
-
 
 ## 🛠️ Skills
 
@@ -18,7 +16,6 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 - **Tools:** VirtualBox, VMware, GNS3, Docker, Google Cloud Platform  
 - **Documentation:** Network diagrams, technical manuals, incident reports  
 - **Languages:** Spanish (native), English (B2 – upper-intermediate)
-
 
 ## 💼 Experience Highlights
 
@@ -34,11 +31,20 @@ I'm a passionate and proactive technology student with hands-on experience in cy
   - Fixed bugs and improved interface security for sensitive data
 
 - **Network & Cybersecurity Lab Assistant**  
-  *Laboratorio de Redes (Sep 2023 – Mar 2024)*  
+  *Network Laboratory (Sep 2023 – Mar 2024)*  
   - Provided secure network support and vulnerability analysis  
   - Assisted with public bidding processes, ensuring cybersecurity compliance  
   - Created technical documentation and performed hands-on testing
 
+## 🚀 Featured Projects
+
+Here are some projects that showcase my skills in cybersecurity, development, and infrastructure:
+
+- 🔐 **[Network Vulnerability Scanner](https://github.com/Nicoropi/Analizador-de-Trafico-de-Red---Estructuras-de-Datos-Grupo-4)**  
+  Python tool for scanning and reporting vulnerabilities in small office/home office networks.
+
+- 📱 **[Secure Android App Demo](https://github.com/andrefalar/VaultRSA)**  
+  Kotlin-based mobile application with user authentication and encrypted data storage.
 
 ## 📜 Certifications
 
