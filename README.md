@@ -52,7 +52,7 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 - **Junior Cybersecurity Analyst Career Path - Cisco** (Jul 2024)  
 - **Network Technician Career Path - Cisco** (Dec 2024)
 
-[View my badges on Credly »]([https://www.credly.com/users/andres-alarcon](https://www.credly.com/users/andres-alarcon.d8d3b904))
+[View my badges on Credly »](https://www.credly.com/users/andres-alarcon.d8d3b904)
 
 ---
 
