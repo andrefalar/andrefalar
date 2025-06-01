@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrés Alarcón
 
-<!--
-**andrefalar/andrefalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems and Computing Engineering student at Universidad Nacional de Colombia  
+🔐 Cybersecurity enthusiast | 💻 Network and Infrastructure Support | 📱 Android Developer  
+📍 Bogotá, Colombia  
+📧 andre.alarcon@proton.me
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a passionate and proactive technology student with hands-on experience in cybersecurity, network configuration, and Android development. I enjoy solving real-world IT problems, maintaining robust and secure infrastructures, and writing clear technical documentation. My goal is to build secure systems that are both reliable and user-friendly.
+
+---
+
+## 🛠️ Skills
+
+- **Cybersecurity & Networking:** VLANs, Cisco, Wireshark, vulnerability analysis, support & incident handling  
+- **Programming:** Python, Kotlin, SQL, Git, GitHub, secure coding practices  
+- **Tools:** VirtualBox, VMware, GNS3, Docker, Google Cloud Platform  
+- **Documentation:** Network diagrams, technical manuals, incident reports  
+- **Languages:** Spanish (native), English (B2 – upper-intermediate)
+
+---
+
+## 💼 Experience Highlights
+
+- **IT Services & Infrastructure Assistant**  
+  *Universidad Nacional de Colombia (Nov 2024 – Jan 2025)*  
+  - Solved security and connectivity incidents across multiple campuses  
+  - Migrated 100+ devices to new VLANs, enhancing network segmentation  
+  - Updated 50+ network diagrams and inventories
+
+- **Android Developer**  
+  *Sitlen S.A.S (Jul 2024 – Oct 2024)*  
+  - Built and secured Kotlin-based Android apps  
+  - Fixed bugs and improved interface security for sensitive data
+
+- **Network & Cybersecurity Lab Assistant**  
+  *Laboratorio de Redes (Sep 2023 – Mar 2024)*  
+  - Provided secure network support and vulnerability analysis  
+  - Assisted with public bidding processes, ensuring cybersecurity compliance  
+  - Created technical documentation and performed hands-on testing
+
+---
+
+## 📜 Certifications
+
+- **Google Cybersecurity Certificate** (Dec 2024)  
+- **Google Cloud Computing Foundations** (Feb 2025)  
+- **Cisco Certified Support Technician - Cybersecurity (CCST)** (Aug 2024)  
+- **Junior Cybersecurity Analyst Career Path - Cisco** (Jul 2024)  
+- **Network Technician Career Path - Cisco** (Dec 2024)
+
+[View my badges on Credly »](https://www.credly.com/users/andres-alarcon)
+
+---
+
+## 📫 Let's Connect
+
+- [GitHub](https://github.com/andrefalar)  
+- [LinkedIn](http://www.linkedin.com/in/andrés-alarcón-7012a1320)
+
+---
+
+> 🚀 Always learning. Always building. Always securing.
