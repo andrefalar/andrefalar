@@ -40,6 +40,9 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 
 Here are some projects that showcase my skills in cybersecurity, development, and infrastructure:
 
+- 💻 **[SecureVault Desktop](https://github.com/andrefalar/Software-Engeneering-1)**  
+  A desktop application designed to help users store, organize, and protect personal or confident.
+
 - 🔐 **[Network Vulnerability Scanner](https://github.com/Nicoropi/Analizador-de-Trafico-de-Red---Estructuras-de-Datos-Grupo-4)**  
   Python tool for scanning and reporting vulnerabilities in small office/home office networks.
 
@@ -48,10 +51,10 @@ Here are some projects that showcase my skills in cybersecurity, development, an
 
 ## 📜 Certifications
 
-- **Google Cybersecurity Certificate** (Dec 2024)  
-- **Google Cloud Computing Foundations** (Feb 2025)  
-- **Cisco Certified Support Technician - Cybersecurity (CCST)** (Aug 2024)  
-- **Junior Cybersecurity Analyst Career Path - Cisco** (Jul 2024)  
+- **Google Cybersecurity Certificate** (Dec 2024)
+- **Google Cloud Computing Foundations** (Feb 2025)
+- **Cisco Certified Support Technician - Cybersecurity (CCST)** (Aug 2024)
+- **Junior Cybersecurity Analyst Career Path - Cisco** (Jul 2024)
 - **Network Technician Career Path - Cisco** (Dec 2024)
 
 [View my badges on Credly »](https://www.credly.com/users/andres-alarcon.d8d3b904)
