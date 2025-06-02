@@ -40,7 +40,7 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 
 Here are some projects that showcase my skills in cybersecurity, development, and infrastructure:
 
-- 💻 **[SecureVault Desktop](https://github.com/andrefalar/Software-Engeneering-1)**  
+- 💻 **[FortiFile Desktop](https://github.com/andrefalar/Software-Engeneering-1)**  
   A desktop application designed to help users store, organize, and protect personal or confident files.
 
 - 🔐 **[Network Vulnerability Scanner](https://github.com/Nicoropi/Analizador-de-Trafico-de-Red---Estructuras-de-Datos-Grupo-4)**  
