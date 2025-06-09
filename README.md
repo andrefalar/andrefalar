@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andrés
 
 🎓 Systems and Computing Engineering student at Universidad Nacional de Colombia  
-🔐 Cybersecurity enthusiast | 💻 Network and Infrastructure Support | 📱 Android Developer  
+🔐 Cybersecurity enthusiast | 💻 Network and Infrastructure Support
 📍 Bogotá, Colombia  
 📧 andre.alarcon@proton.me
 
