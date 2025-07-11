@@ -21,20 +21,12 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 
 - **IT Services & Infrastructure Assistant**  
   *Universidad Nacional de Colombia (Nov 2024 – Jan 2025)*  
-  - Solved security and connectivity incidents across multiple campuses  
-  - Migrated 100+ devices to new VLANs, enhancing network segmentation  
-  - Updated 50+ network diagrams and inventories
 
 - **Android Developer**  
   *Sitlen S.A.S (Jul 2024 – Oct 2024)*  
-  - Built and secured Kotlin-based Android apps  
-  - Fixed bugs and improved interface security for sensitive data
 
 - **Network & Cybersecurity Lab Assistant**  
   *Network Laboratory (Sep 2023 – Mar 2024)*  
-  - Provided secure network support and vulnerability analysis  
-  - Assisted with public bidding processes, ensuring cybersecurity compliance  
-  - Created technical documentation and performed hands-on testing
 
 ## 🚀 Featured Projects
 
