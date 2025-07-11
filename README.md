@@ -20,7 +20,7 @@ I'm a passionate and proactive technology student with hands-on experience in cy
 ## 💼 Experience Highlights
 
 - **IT Services & Infrastructure Assistant**  
-  *Universidad Nacional de Colombia (Nov 2024 – Jan 2025)*  
+  *Universidad Nacional de Colombia (Nov 2024 – Feb 2025)*  
 
 - **Android Developer**  
   *Sitlen S.A.S (Jul 2024 – Oct 2024)*  
